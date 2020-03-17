@@ -1,4 +1,0 @@
-[submodule "git"]
-	path = git
-	url = git@github.com:git/git.git
-	shallow = true
